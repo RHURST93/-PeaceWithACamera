@@ -17,7 +17,7 @@ import Header from '../components/Nav';
 import Hawk from '../assets/Hawk.jpg';
 import HerronFish from '../assets/HerronFish.jpg';
 //import PhotoAlbum from "react-photo-album";
-import PhotoAlbum from "react-photo-album";
+//import PhotoAlbum from "react-photo-album";
 //import photos from '../pages/photos';
 //import Gallery from 'react-photo-gallery;
 import 'lightbox.js-react/dist/index.css'
